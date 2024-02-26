@@ -1,5 +1,5 @@
 /* pemakaian beberapa operator terhadap RELATIONAL DAN bit */
-public class Tugas13 {
+public class No13 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
