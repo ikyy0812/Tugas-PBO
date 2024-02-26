@@ -4,7 +4,7 @@ mendefinisikan */
 /* variabel-variabel bilangan bulat (short int, int, long  */ 
 /* karakter,bilangan riil, */
 
-public class Tugas3 {
+public class No3 {
 
     /**
      *  @param args
